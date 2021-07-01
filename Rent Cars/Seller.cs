@@ -176,11 +176,4 @@ class Seller : Person,IEnumerable<Buyer>
         {
             Console.WriteLine(ioe.Message);
         }
-        
-        
-        
-    }
-    public List<Buyer> GetB(){
-        return buyers;
-    }
 }
