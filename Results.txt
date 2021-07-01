@@ -1,17 +1,17 @@
 ----------Total----------
 
 BUYER 
-Name: Jovan
-Last name: Program
+Name: John
+Last name: Malkovich
 Age: 1998
 Cash balance: 1000
 Card number: 436-27683-53 
 Card pin: 9800
-Card balance: 6448
+Card balance: 5650
 
 BUYER 
-Name: Lana
-Last name: Jovanovic
+Name: Ana
+Last name: Davidson
 Age: 2000
-Cash balance: 4120
+Cash balance: 4200
 ----------Total----------
