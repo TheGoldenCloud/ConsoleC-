@@ -1,8 +1,8 @@
 ----------Total----------
 
 BUYER 
-Name: Jovan
-Last name: Program
+Name: John
+Last name: Perry
 Age: 1998
 Cash balance: 1000
 Card number: 436-27683-53 
@@ -11,7 +11,7 @@ Card balance: 6448
 
 BUYER 
 Name: Lana
-Last name: Jovanovic
+Last name: Malkovich
 Age: 2000
 Cash balance: 4120
 ----------Total----------
